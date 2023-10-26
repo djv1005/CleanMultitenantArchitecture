@@ -1,0 +1,15 @@
+C:\Users\djv1005\source\repos\CleanMultitenantArchitecture\CleanMultitenantArchitecture.Infraestructure\obj\Debug\net7.0\CleanMultitenantArchitecture.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\djv1005\source\repos\CleanMultitenantArchitecture\CleanMultitenantArchitecture.Infraestructure\obj\Debug\net7.0\CleanMultitenantArchitecture.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djv1005\source\repos\CleanMultitenantArchitecture\CleanMultitenantArchitecture.Infraestructure\obj\Debug\net7.0\CleanMultitenantArchitecture.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\djv1005\source\repos\CleanMultitenantArchitecture\CleanMultitenantArchitecture.Infraestructure\obj\Debug\net7.0\CleanMultitenantArchitecture.Infraestructure.AssemblyInfo.cs
+C:\Users\djv1005\source\repos\CleanMultitenantArchitecture\CleanMultitenantArchitecture.Infraestructure\obj\Debug\net7.0\CleanMultitenantArchitecture.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\djv1005\source\repos\CleanMultitenantArchitecture\CleanMultitenantArchitecture.Infraestructure\bin\Debug\net7.0\CleanMultitenantArchitecture.Infraestructure.deps.json
+C:\Users\djv1005\source\repos\CleanMultitenantArchitecture\CleanMultitenantArchitecture.Infraestructure\bin\Debug\net7.0\CleanMultitenantArchitecture.Infraestructure.dll
+C:\Users\djv1005\source\repos\CleanMultitenantArchitecture\CleanMultitenantArchitecture.Infraestructure\bin\Debug\net7.0\CleanMultitenantArchitecture.Infraestructure.pdb
+C:\Users\djv1005\source\repos\CleanMultitenantArchitecture\CleanMultitenantArchitecture.Infraestructure\bin\Debug\net7.0\CleanMultitenantArchitecture.Domain.dll
+C:\Users\djv1005\source\repos\CleanMultitenantArchitecture\CleanMultitenantArchitecture.Infraestructure\bin\Debug\net7.0\CleanMultitenantArchitecture.Domain.pdb
+C:\Users\djv1005\source\repos\CleanMultitenantArchitecture\CleanMultitenantArchitecture.Infraestructure\obj\Debug\net7.0\CleanMultitenantArchitecture.Infraestructure.csproj.CopyComplete
+C:\Users\djv1005\source\repos\CleanMultitenantArchitecture\CleanMultitenantArchitecture.Infraestructure\obj\Debug\net7.0\CleanMultitenantArchitecture.Infraestructure.dll
+C:\Users\djv1005\source\repos\CleanMultitenantArchitecture\CleanMultitenantArchitecture.Infraestructure\obj\Debug\net7.0\refint\CleanMultitenantArchitecture.Infraestructure.dll
+C:\Users\djv1005\source\repos\CleanMultitenantArchitecture\CleanMultitenantArchitecture.Infraestructure\obj\Debug\net7.0\CleanMultitenantArchitecture.Infraestructure.pdb
+C:\Users\djv1005\source\repos\CleanMultitenantArchitecture\CleanMultitenantArchitecture.Infraestructure\obj\Debug\net7.0\ref\CleanMultitenantArchitecture.Infraestructure.dll
